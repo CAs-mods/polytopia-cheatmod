@@ -1,7 +1,6 @@
 # CheatMod
 
 CheatMod is a basic cheat menu for Polytopia which currently has cheats for:
-  - Enabling all tribes.
   - Revealing all of the map. (Requires an exit and re-enter.)
   - Getting stars.
 
